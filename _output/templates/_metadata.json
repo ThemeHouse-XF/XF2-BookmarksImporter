@@ -1,0 +1,12 @@
+{
+    "admin/th_bookmarks_import_config.html": {
+        "version_id": 1000011,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "3a76428dfa82e1d7704b1df710551dc4"
+    },
+    "admin/th_bookmarksimport_import_config.html": {
+        "version_id": 1000011,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "3a76428dfa82e1d7704b1df710551dc4"
+    }
+}

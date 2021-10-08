@@ -1,0 +1,5 @@
+<xf:checkboxrow name="config[content_types]" label="{{ phrase('content_types:') }}">
+    <xf:foreach loop="$supportedContentTypes" value="$contentType">
+        <xf:option value="{$contentType.value}" checked="1">{$contentType.label}</xf:option>
+    </xf:foreach>
+</xf:checkboxrow>

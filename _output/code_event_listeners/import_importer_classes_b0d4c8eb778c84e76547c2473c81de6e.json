@@ -1,0 +1,9 @@
+{
+    "event_id": "import_importer_classes",
+    "execute_order": 10,
+    "callback_class": "\\ThemeHouse\\BookmarksImporter\\Listener\\Importer",
+    "callback_method": "importImporterClasses",
+    "active": true,
+    "hint": "",
+    "description": ""
+}

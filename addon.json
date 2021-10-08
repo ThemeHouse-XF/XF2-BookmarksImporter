@@ -1,0 +1,19 @@
+{
+    "legacy_addon_id": "",
+    "title": "[TH] Bookmarks Importer",
+    "description": "",
+    "version_id": 1000092,
+    "version_string": "1.0.0 Patch Level 2",
+    "dev": "ThemeHouse",
+    "dev_url": "https://www.themehouse.com",
+    "faq_url": "",
+    "support_url": "",
+    "extra_urls": [],
+    "require": {
+        "XF": [
+            2010070,
+            "XenForo 2.1.0+"
+        ]
+    },
+    "icon": "icon.png"
+}
